@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>   
+</head>
+
+<!-- Pour intégrer cette fonctionnalité dans votre code, copiez les lignes 13 à 44 et remplacer 
+    les balises body de votre code par celles qui se trouve dans celui-ci -->
+
+
+<body oncontextmenu="return false;"> 
+
+    <script>
+
+        // Cette fonctionnalité de script bloque automatiquement les clics droits 
+        // Ainsi que la touche F12 permettant d'accèder au code source d'une page.
+        // Ce script fonctionne sur la plupart des navigateurs
+        // Code JavaScript by Hugo.T
+
+        document.onkeydown=function(e)
+        {
+            if(event.keyCode == 123)
+            {
+                return false;
+            }
+            if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0))
+            {
+                return false;
+            }
+            if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0))
+            {
+                return false;
+            }
+            if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0))
+            {
+                return false;
+            }
+    
+        }
+    </script>   
+
+</body>
+</html>
