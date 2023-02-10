@@ -3,7 +3,7 @@
 
 
 
-Ce code est en JavaScript et il est utilisé pour bloquer les clics droits ainsi que la touche F12 sur une page Web. La première ligne de code, "<body oncontextmenu="return false;">", définit une fonction JavaScript qui sera appelée lorsque l'utilisateur clique avec le bouton droit de la souris sur la page. La fonction renvoie "false", ce qui empêche le menu contextuel par défaut de s'afficher.
+Ce code est en JavaScript et il est utilisé pour bloquer les clics droits ainsi que la touche F12 sur une page Web. La première ligne de code, "<body oncontextmenu='return false;'>", définit une fonction JavaScript qui sera appelée lorsque l'utilisateur clique avec le bouton droit de la souris sur la page. La fonction renvoie "false", ce qui empêche le menu contextuel par défaut de s'afficher.
 
 Le reste du code définit une fonction JavaScript appelée "document.onkeydown", qui est activée lorsque l'utilisateur appuie sur une touche du clavier. L'argument "e" représente l'événement qui déclenche la fonction.
 
