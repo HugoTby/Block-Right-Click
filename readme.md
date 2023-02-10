@@ -21,7 +21,7 @@ En résumé, ce code est utilisé pour protéger le contenu d'une page Web en bl
 **Oui**, ce code devrait fonctionner sur Mac ainsi que sur d'autres systèmes d'exploitation tels que Windows et Linux. En général, JavaScript est un langage de programmation qui s'exécute sur le navigateur, et non sur le système d'exploitation, ce qui signifie que le code JavaScript peut fonctionner de manière similaire sur différents systèmes d'exploitation. Cependant, il peut y avoir des différences mineures entre les navigateurs, donc il est toujours bon de tester votre code sur plusieurs navigateurs et systèmes d'exploitation pour vous assurer qu'il fonctionne correctement.
 
 
-## Authors
+## Auteur(s)
 
 - [@HugoTby](https://www.github.com/HugoTby)
 
@@ -29,9 +29,9 @@ En résumé, ce code est utilisé pour protéger le contenu d'une page Web en bl
 ![Logo](https://i0.wp.com/www.jeremysmola.com/wp-content/uploads/2019/04/cropped-logo-javascript-logo-png-transparent-1.png?ssl=1)
 
 
-## Used By
+## Utilisé par
 
-This project is used by the following companies:
+Ce projet est utilisé par les entreprises suivantes :
 
 - Beta Games
-
+- Providence1
