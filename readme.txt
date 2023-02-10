@@ -14,7 +14,7 @@ d'accéder au code source de la page ou de copier le contenu de la page en utili
 En résumé, ce code est utilisé pour protéger le contenu d'une page Web en bloquant les clics droits et les raccourcis clavier couramment utilisés
 pour accéder au code source d'une page.
     
-ce code devrait fonctionner sur Mac ainsi que sur d'autres systèmes d'exploitation tels que Windows et Linux. 
+Ce code devrait fonctionner sur Mac ainsi que sur d'autres systèmes d'exploitation tels que Windows et Linux. 
 En général, JavaScript est un langage de programmation qui s'exécute sur le navigateur, et non sur le système d'exploitation, 
 ce qui signifie que le code JavaScript peut fonctionner de manière similaire sur différents systèmes d'exploitation. 
 Cependant, il peut y avoir des différences mineures entre les navigateurs, donc il est toujours bon de tester votre code 
