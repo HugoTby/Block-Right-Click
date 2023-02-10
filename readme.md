@@ -33,5 +33,6 @@ En résumé, ce code est utilisé pour protéger le contenu d'une page Web en bl
 
 Ce projet est utilisé par les entreprises suivantes :
 
-- Beta Games
+- Beta Games France
+- Beta Games USA
 - Providence1
