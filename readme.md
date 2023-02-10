@@ -23,7 +23,7 @@ En résumé, ce code est utilisé pour protéger le contenu d'une page Web en bl
 
 ## Auteur(s)
 
-- [@HugoTby](https://www.github.com/HugoTby)
+- [Hugo T 🇫🇷](https://www.github.com/HugoTby)
 
 
 ![Logo](https://i0.wp.com/www.jeremysmola.com/wp-content/uploads/2019/04/cropped-logo-javascript-logo-png-transparent-1.png?ssl=1)
