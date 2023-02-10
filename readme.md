@@ -36,3 +36,4 @@ Ce projet est utilisé par les entreprises suivantes :
 - Beta Games France
 - Beta Games USA
 - Providence1
+- DoctoWish
