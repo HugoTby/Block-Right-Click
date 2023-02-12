@@ -1,5 +1,5 @@
 
-# Block Bad Actions
+# Block Right Click
 
 
 
